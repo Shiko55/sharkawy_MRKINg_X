@@ -6,3 +6,7 @@ cd MRKING
 bash install.sh
 ./MRKING.sh
 ```
+bash SHARKWY.sh
+
+liunx 1
+Termux 2
